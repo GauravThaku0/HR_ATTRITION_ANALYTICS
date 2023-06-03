@@ -1,8 +1,15 @@
 # HR_ATTRITION_ANALYTICS
-This is a Power Bi Dashboard of HR Attrition Analytics,
+<img width="989" alt="dashboard img" src="https://github.com/GauravThaku0/HR_ATTRITION_ANALYTICS/assets/79090971/fc01ae44-8e5a-49b5-8287-b5aad9b0835e">
+
+
+
+
+This is a Power Bi Dashboard of HR Attrition Analytics.
+
 To clear all the filters press ctrl + clear button on top right in dashboard
 
-[Insights]
+**[Insights]**
+
 Total employees: 1,470 (150 males, 87 females)
 
 Attrition: 237 employees (16.1% overall rate)
