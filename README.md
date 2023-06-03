@@ -10,7 +10,7 @@ To clear all the filters press ctrl + clear button on top right in dashboard
 
 **[Insights]**
 
-Total employees: 1,470 Attrition 237 (150 males, 87 females)
+Total employees: 1,470, Attrition 237 (150 males, 87 females)
 
 Attrition: 237 employees (16.1% overall rate)
 
