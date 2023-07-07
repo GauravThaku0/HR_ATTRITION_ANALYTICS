@@ -19,7 +19,7 @@ The project aims to identify the causes of employee turnover, determine the scal
 
 **I Applied the following:**
 1. Removed unnecessary rows, columns and identified wrongly labeled data types
-and corrected them to respective types
+and corrected them to their respective types
 2. Utilized DAX formulas in Power BI to create advanced calculations, measures, and
 aggregations for enhanced data analysis and visualization
 3. Created visually impactful graphs and charts in Power BI to effectively
